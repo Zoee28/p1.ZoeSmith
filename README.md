@@ -4,7 +4,7 @@ Youtube URL: https://www.youtube.com/embed/KQtKt99oRD4
 
 
 # Issues with current design of microwave:
-- Cook and power button not functioning
+- Cook and power button not functioning (when pressed, microwave only beeps twice)
 - Limited to preprogrammed buttons (ex. pizza, express cook, add 30 seconds)
 - Preprogrammed food times not accurate (ex. For pizza when I use the pizza button, my pizza is still cold or only room temperature for 1 slice)
 - For inputting 1:15, the user must press 1 minute, add 30 seconds, and manually stop at 15 seconds remaining
@@ -63,14 +63,19 @@ c.	Press start
 - 2 ways to open microwave door (handle located on door or door release button located on bottom right)
 - Placed clock and timer buttons closer to LED display
 - Placed cook button with numbered buttons
-- Letters and numbers on buttons are beveled to easier tell 
+- Letters and numbers on buttons are beveled. This helps users possibly vision impaired to feel where the buttons are and gain a better understanding of what button does what. 
 - Brush to feel, hard tap to input
-- Voice on/off button (verbally says what buttons are pressed)
-- Speak button (User can press and hold button to hold to tell how long and what power to cook food for)
-- Removed inaccurate auto programmed food buttons
+- Voice on/off button (verbally says what buttons are pressed). When activated, the microwave will verbally say what buttons are pressed (ex. User inputs "Cook", "1", "5", and "Start". Microwave will say "Cook pressed", "1 second", "15 seconds", "cooking for 15 seconds".)
+- Speak button (User can press and hold button to hold to tell how long and what power to cook food for). For visually impaired who can't distinguest what buttons represent. Microwave will use voice function to relay cook time (ex. user says "cook for 1 minute power 6". Microwave will respond "Cooking food for 1 minute and 0 seconds on power level 6" and will start the task). 
+- Removed inaccurate auto programmed food buttons. Rarely accurate and work every single time. 
 
 # Future improvements
 - Bluetooth connectivity to send alert to phone, smart watch, or fitbit that food is ready (helps with hearing impaired users, or users who are in time crunch with tasks).
+- Adding multiple languages for voice on/off feature
+- AI for preprogrammed food buttons
+- Possibly add braille
+- add verbal or sound cue to open microwave door.
+- If door is not opened after set length of time after food is done, cook for 5 seconds then beep again.
 
 
 
