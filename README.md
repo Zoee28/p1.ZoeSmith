@@ -4,6 +4,8 @@ Youtube URL: https://www.youtube.com/embed/KQtKt99oRD4
 
 
 # Issues with current design of microwave:
+![gif](https://user-images.githubusercontent.com/74264662/109456297-24351c00-7a1e-11eb-9dd2-96083811b8d2.gif)
+
 - Cook and power button not functioning (when pressed, microwave only beeps twice)
 - Limited to preprogrammed buttons (ex. pizza, express cook, add 30 seconds)
 - Preprogrammed food times not accurate (ex. For pizza when I use the pizza button, my pizza is still cold or only room temperature for 1 slice)
